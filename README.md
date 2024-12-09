@@ -21,7 +21,14 @@
 
 ### Prerequisites
 
-Ensure Python 3.8 or later is installed.
+### Python Version
+
+Ensure you have **Python 3.9 or older** installed on your system. Newer versions are not compatible with the `unstructured` library.
+
+### Installation Requirements
+
+Follow the installation instructions provided in the [Unstructured Documentation](https://docs.unstructured.io/open-source/installation/full-installation). This step ensures all dependencies for handling PDFs and extracting structured content are correctly installed.
+
 
 ### Steps
 
