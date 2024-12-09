@@ -1,0 +1,6 @@
+unstructured[pdf]
+fitz
+PyMuPDF
+langchain-groq
+langchain-openai
+python-dotenv
